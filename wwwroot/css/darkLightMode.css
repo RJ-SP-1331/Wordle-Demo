@@ -75,7 +75,7 @@ body {
         width: 44px;
         height: 44px;
         background-color: slategray;
-        background-image: url('~/images/moonicon.jpg');
+        background-image: url('../images/moonicon.jpg');
         background-size: 20px 20px;
         background-repeat: no-repeat;
         background-position: center;
@@ -100,7 +100,8 @@ body {
         width: 46px;
         height: 46px;
         background-color: transparent;
-        background-image: url('~/images/sunicon.jpg');
+        background-image: url('../images/sunicon.jpg');
+      
         background-size: 25px 25px;
         background-repeat: no-repeat;
         background-position: center;
