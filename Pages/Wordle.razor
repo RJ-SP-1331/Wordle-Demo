@@ -3,19 +3,66 @@
 @inject GameManagerService GameManagerService
 @inject LocalizationService LocalizationService
 
-<PageTitle>Wordle</PageTitle>
+<PageTitle>WordTrick</PageTitle>
 
-<div class="flex flex-col justify-between items-center h-full w-full outline-0" @ref="_mainDiv" tabindex="0" @onkeydown="KeyDown">
-    <HeaderBar AncestorComponent="this" />
+<html>
+    
+   <body>
 
-    <ToastNotification />
 
-    <GameBoard AncestorComponent="this" @ref="_gameBoard" />
+        <input class="dark-light" type="checkbox" id="dark-light" name="dark-light"/>
+        <label for="dark-light"/>
+        
+        
+        <div class="light-back">
 
-    @if (_showStats)
-    {
-        <Modal Title="@LocalizationService["StatsTitle"]" OnCloseCallback="@CloseStats">
-            <StatsDialog />
-        </Modal>
-    }
-</div>
+            <div class="flex flex-col justify-between items-center h-full w-full outline-0" @ref="_mainDiv" tabindex="0" @onkeydown="KeyDown">
+                <HeaderBar AncestorComponent="this" />
+
+                <ToastNotification />
+
+                <GameBoard AncestorComponent="this" @ref="_gameBoard" />
+
+                @if (_showStats)
+                {
+                    <Modal Title="@LocalizationService["StatsTitle"]" OnCloseCallback="@CloseStats">
+                        <StatsDialog />
+                    </Modal>
+                }
+            </div>
+        </div>
+
+        <div class="flex flex-col justify-between items-center h-full w-full outline-0" @ref="_mainDiv" tabindex="0" @onkeydown="KeyDown">
+            <HeaderBar AncestorComponent="this" />
+
+            <ToastNotification />
+
+            <GameBoard AncestorComponent="this" @ref="_gameBoard" />
+
+            @if (_showStats)
+            {
+                <Modal Title="@LocalizationService["StatsTitle"]" OnCloseCallback="@CloseStats">
+                    <StatsDialog />
+                </Modal>
+            }
+        </div>
+
+       
+
+         <input class="menu-icon" type="checkbox" id="menu-icon" name="menu-icon" />
+        <label for="menu-icon"></label>
+        <nav class="nav">
+            <ul class="pt-5">
+                <li><a href="#">Statistics</a></li>
+                <li><a href="#">Social Media</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+
+        <a href="#" class="logo" target="_blank">
+            <img src="images/darkwt.png" alt="WORDTRICK">
+        </a>
+   
+    </body>
+</html>
+

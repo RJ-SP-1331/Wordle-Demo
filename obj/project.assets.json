@@ -1943,11 +1943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago Jaldin\\Source\\Repos\\wordle-blazor\\src\\WordleBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\Santiago Jaldin\\Documents\\GitHub\\Wordle-Demo\\WordleBlazor.csproj",
       "projectName": "WordleBlazor",
-      "projectPath": "C:\\Users\\Santiago Jaldin\\Source\\Repos\\wordle-blazor\\src\\WordleBlazor.csproj",
+      "projectPath": "C:\\Users\\Santiago Jaldin\\Documents\\GitHub\\Wordle-Demo\\WordleBlazor.csproj",
       "packagesPath": "C:\\Users\\Santiago Jaldin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago Jaldin\\Source\\Repos\\wordle-blazor\\src\\obj\\",
+      "outputPath": "C:\\Users\\Santiago Jaldin\\Documents\\GitHub\\Wordle-Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago Jaldin\\AppData\\Roaming\\NuGet\\NuGet.Config",

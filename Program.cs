@@ -17,6 +17,7 @@ builder.Services.AddScoped<BrowserLocalStorageService>();
 builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddLocalization();
 
+
 var host = builder.Build();
 
 await host.SetDefaultCulture();

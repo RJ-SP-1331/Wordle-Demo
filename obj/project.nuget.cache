@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eATWNvhz410lZOnvte6aJOLih+d9/k6a4oC7Z4ls1XoU6SJL8dYUuNGytMFGoVVQiKLb2bzG521v+imvt7nOKg==",
+  "dgSpecHash": "u2li9wKex2JbV7njBzaxACcYLqEWaQnL4k+GBAKlslKJpU4l4XLpkdB9BVdr44LjkJPQEiuyZtQxlBK7xT4K9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Santiago Jaldin\\Source\\Repos\\wordle-blazor\\src\\WordleBlazor.csproj",
+  "projectFilePath": "C:\\Users\\Santiago Jaldin\\Documents\\GitHub\\Wordle-Demo\\WordleBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago Jaldin\\.nuget\\packages\\blazorcomponentutilities\\1.8.0\\blazorcomponentutilities.1.8.0.nupkg.sha512",
     "C:\\Users\\Santiago Jaldin\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
