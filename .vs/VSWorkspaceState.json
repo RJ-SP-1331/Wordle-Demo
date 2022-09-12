@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\wwwroot",
+    "\\wwwroot\\images"
   ],
-  "SelectedNode": "\\WordleBlazor.sln",
+  "SelectedNode": "\\wwwroot\\images\\moonIcon.jpg",
   "PreviewInSolutionExplorer": false
 }
