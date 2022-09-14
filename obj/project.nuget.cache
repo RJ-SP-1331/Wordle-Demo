@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sdKJQ2HVJH2zTF7a6zUS6ajeaZloZhDBpWP+eBjWUJJwIAatg/wo2SYafrnxmS8KsGYKOmPM15VTR6OjqW+Bcw==",
+  "dgSpecHash": "1RBN4hkeM2mLjEM5WnxYU9KZNBGlu8YhvVk6gszH3/EpDn1FkQEaW/iekgOO+cNxCMKOCJylVUDlMnkeY/69Og==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saral\\Documents\\PrograWeb3\\WordTrick_3.0\\WordleBlazor.csproj",
+  "projectFilePath": "C:\\Users\\saral\\Documents\\A01\\WordleBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saral\\.nuget\\packages\\blazorcomponentutilities\\1.8.0\\blazorcomponentutilities.1.8.0.nupkg.sha512",
     "C:\\Users\\saral\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",

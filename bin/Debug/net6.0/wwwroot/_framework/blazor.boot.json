@@ -200,16 +200,16 @@
       "mscorlib.dll": "sha256-TYLzIm125RbnX9+RAPqJnwZhd6CnQpJcrjiMpJfZ720=",
       "netstandard.dll": "sha256-HhuK9zDkd1N7hODAEiNJ11VF8T54IgrM6hZfLHmHdqM=",
       "System.Private.CoreLib.dll": "sha256-dXaTqyg1PnXPiSwywpic1PVrd7P8Vb5tN0i0\/urdt3E=",
-      "WordleBlazor.dll": "sha256-jSWz9upKqQNRili67OOhRrEn1Vsjp0KNXWpYQkjhdwo="
+      "WordleBlazor.dll": "sha256-EuzbZo1G\/z1XQtO6xQ9Nd\/P1BPzZRDr55XU7IVf4sIg="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "WordleBlazor.pdb": "sha256-nfgD52+ZzzlnORoqH9bYXNRqKwBGPz32WVAIYzmVQ1w="
+      "WordleBlazor.pdb": "sha256-lqWdN8tYpnxskv1RFhub2JOnfmpLxfrHjIQFXM\/G0hw="
     },
     "runtime": {
-      "dotnet.6.0.8.m7qcli9yw6.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",
+      "dotnet.6.0.8.dksbjxx2dc.js": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",
       "dotnet.timezones.blat": "sha256-2NJf++ql6UnbRRdYWEir6MxH58bYGWDEqofII\/z+Xmo=",
       "dotnet.wasm": "sha256-y0gwhQ7a6FTinj6R6HEA3SlRDb\/iL70a56PEGpKbt\/8=",
       "icudt.dat": "sha256-Zuq0dWAsBm6\/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE=",
@@ -219,7 +219,7 @@
     },
     "satelliteResources": {
       "es": {
-        "es\/WordleBlazor.resources.dll": "sha256-zFZqBD+6Svz74OETq0iBTXE9AAv9dXOI2tnsJWMpccs="
+        "es\/WordleBlazor.resources.dll": "sha256-xLuiUQzSmzyy8GVF9uxflO+RlMJ8ZllR\/lbcRbZNuGs="
       }
     }
   }

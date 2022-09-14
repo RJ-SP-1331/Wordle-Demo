@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saral\\Documents\\PrograWeb3\\WordTrick_3.0\\WordleBlazor.csproj": {}
+    "C:\\Users\\saral\\Documents\\A01\\WordleBlazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saral\\Documents\\PrograWeb3\\WordTrick_3.0\\WordleBlazor.csproj": {
+    "C:\\Users\\saral\\Documents\\A01\\WordleBlazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saral\\Documents\\PrograWeb3\\WordTrick_3.0\\WordleBlazor.csproj",
+        "projectUniqueName": "C:\\Users\\saral\\Documents\\A01\\WordleBlazor.csproj",
         "projectName": "WordleBlazor",
-        "projectPath": "C:\\Users\\saral\\Documents\\PrograWeb3\\WordTrick_3.0\\WordleBlazor.csproj",
+        "projectPath": "C:\\Users\\saral\\Documents\\A01\\WordleBlazor.csproj",
         "packagesPath": "C:\\Users\\saral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saral\\Documents\\PrograWeb3\\WordTrick_3.0\\obj\\",
+        "outputPath": "C:\\Users\\saral\\Documents\\A01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saral\\AppData\\Roaming\\NuGet\\NuGet.Config",
