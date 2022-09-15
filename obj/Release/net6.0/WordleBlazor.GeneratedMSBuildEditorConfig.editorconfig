@@ -11,69 +11,69 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = WordleBlazor
 build_property.RootNamespace = WordleBlazor
-build_property.ProjectDir = C:\Users\Santiago Jaldin\Documents\GitHub\Wordle-Demo\
+build_property.ProjectDir = C:\Users\Santiago Jaldin\Downloads\AC02 (1)\AC02\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Santiago Jaldin\Documents\GitHub\Wordle-Demo
+build_property.MSBuildProjectDirectory = C:\Users\Santiago Jaldin\Downloads\AC02 (1)\AC02
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/App.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/BoardLine.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/BoardLine.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCb2FyZExpbmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/GameBoard.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/GameBoard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHYW1lQm9hcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/HeaderBar.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/HeaderBar.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkZXJCYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/Key.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/Key.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xLZXkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/Keyboard.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/Keyboard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xLZXlib2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/StatsDialog.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/StatsDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGF0c0RpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Pages/Wordle.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Pages/Wordle.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29yZGxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Shared/Animation.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Shared/Animation.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFuaW1hdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Shared/Button.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Shared/Button.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJ1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Shared/MainLayout.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Shared/Modal.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Shared/Modal.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Shared/ToastNotification.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Shared/ToastNotification.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvYXN0Tm90aWZpY2F0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/_Imports.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Santiago Jaldin/Documents/GitHub/Wordle-Demo/Components/BoardCell.razor]
+[C:/Users/Santiago Jaldin/Downloads/AC02 (1)/AC02/Components/BoardCell.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCb2FyZENlbGwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0emyaqyjyf

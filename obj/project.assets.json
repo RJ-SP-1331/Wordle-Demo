@@ -1938,19 +1938,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\saral\\.nuget\\packages\\": {}
+    "C:\\Users\\Santiago Jaldin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saral\\Downloads\\AC02\\WordleBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\Santiago Jaldin\\Downloads\\AC02 (1)\\AC02\\WordleBlazor.csproj",
       "projectName": "WordleBlazor",
-      "projectPath": "C:\\Users\\saral\\Downloads\\AC02\\WordleBlazor.csproj",
-      "packagesPath": "C:\\Users\\saral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saral\\Downloads\\AC02\\obj\\",
+      "projectPath": "C:\\Users\\Santiago Jaldin\\Downloads\\AC02 (1)\\AC02\\WordleBlazor.csproj",
+      "packagesPath": "C:\\Users\\Santiago Jaldin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Santiago Jaldin\\Downloads\\AC02 (1)\\AC02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\saral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Santiago Jaldin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
