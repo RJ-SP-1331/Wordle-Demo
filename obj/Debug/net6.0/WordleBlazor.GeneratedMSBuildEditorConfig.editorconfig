@@ -11,69 +11,69 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = WordleBlazor
 build_property.RootNamespace = WordleBlazor
-build_property.ProjectDir = C:\Users\saral\Downloads\AC01\
+build_property.ProjectDir = C:\Users\saral\Downloads\AC02\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\saral\Downloads\AC01
+build_property.MSBuildProjectDirectory = C:\Users\saral\Downloads\AC02
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/saral/Downloads/AC01/App.razor]
+[C:/Users/saral/Downloads/AC02/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/BoardLine.razor]
+[C:/Users/saral/Downloads/AC02/Components/BoardLine.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCb2FyZExpbmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/GameBoard.razor]
+[C:/Users/saral/Downloads/AC02/Components/GameBoard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xHYW1lQm9hcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/HeaderBar.razor]
+[C:/Users/saral/Downloads/AC02/Components/HeaderBar.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkZXJCYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/Key.razor]
+[C:/Users/saral/Downloads/AC02/Components/Key.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xLZXkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/Keyboard.razor]
+[C:/Users/saral/Downloads/AC02/Components/Keyboard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xLZXlib2FyZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/StatsDialog.razor]
+[C:/Users/saral/Downloads/AC02/Components/StatsDialog.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGF0c0RpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Pages/Wordle.razor]
+[C:/Users/saral/Downloads/AC02/Pages/Wordle.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29yZGxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Shared/Animation.razor]
+[C:/Users/saral/Downloads/AC02/Shared/Animation.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFuaW1hdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Shared/Button.razor]
+[C:/Users/saral/Downloads/AC02/Shared/Button.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJ1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Shared/MainLayout.razor]
+[C:/Users/saral/Downloads/AC02/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Shared/Modal.razor]
+[C:/Users/saral/Downloads/AC02/Shared/Modal.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Shared/ToastNotification.razor]
+[C:/Users/saral/Downloads/AC02/Shared/ToastNotification.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvYXN0Tm90aWZpY2F0aW9uLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/_Imports.razor]
+[C:/Users/saral/Downloads/AC02/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saral/Downloads/AC01/Components/BoardCell.razor]
+[C:/Users/saral/Downloads/AC02/Components/BoardCell.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCb2FyZENlbGwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0emyaqyjyf

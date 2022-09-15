@@ -808,11 +808,11 @@ a .uil {
 
 .helpNav {
     position: fixed;
-    bottom: 33px;
-    left: 50px;
+    bottom: 63px;
+    left: 75px;
     display: block;
-    width: 80px;
-    height: 80px;
+    width: 1px;
+    height: 1px;
     padding: 0;
     margin: 0;
     z-index: 9;
@@ -1007,6 +1007,54 @@ a .uil {
 
 .help-icon:checked ~ .helpNav ul li:nth-child(4) {
     transition-delay: 1640ms;
+}
+
+.bodyCards {
+    margin: auto;
+    margin-top: 20%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 55%;
+    height: 300px;
+}
+
+.containerCards {
+    display: flex;
+    flex-basis: 65%;
+    height: 300px;
+}
+
+span.contextInside {
+    position: relative;
+    overflow: hidden;
+    margin: 0.5rem;
+    border-radius: 50px 0;
+    box-shadow: 0 0 1rem 0 rgba(0,0,0,0.5);
+    flex-grow: 1;
+    transition: flex-grow 0.4s ease-in;
+}
+
+
+    span.contextInside:before {
+        display: block;
+        content: '';
+        padding-left: 8rem;
+        background: #000;
+    }
+
+.imgCard {
+    width: auto;
+    height: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.containerCards .contextInside:hover {
+    flex-grow: 2;
 }
 
 /*FLOATING HELP WINDOW END*/

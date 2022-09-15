@@ -51,7 +51,7 @@
         <label for="menu-icon"></label>
         <nav class="nav">
             <ul class="pt-5">
-                <li><a href="#">Statistics</a></li>
+            <li><a href="#" @onclick="() => ShowStats()">Statistics</a></li>
                 <li><a href="#">Social Media</a></li>
                 <li><a href="#">About</a></li>
             </ul>
@@ -60,9 +60,22 @@
         <input class="help-icon" type="checkbox" id="help-icon" name="help-icon" />
         <label for="help-icon"></label>
         <nav class="helpNav">
-            <ul class="pt-5">
-
-            </ul>
+            <div class="bodyCards">
+                <section class="containerCards">
+                    <span class="contextInside">
+                       
+                        <img class="imgCard" src="./imgs/1.png">
+                        
+                    </span>
+                <span class="contextInside">
+                    <img class="imgCard" src="./imgs/2.png">
+                    </span>
+                    <span class="contextInside">
+                        <img class="imgCard" src="./imgs/3.png">
+                    </span>
+                </section>
+            </div>
+            
         </nav>
 
         <a  class="logo">

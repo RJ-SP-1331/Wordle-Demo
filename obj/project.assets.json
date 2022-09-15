@@ -1943,11 +1943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\saral\\Downloads\\AC01\\WordleBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\saral\\Downloads\\AC02\\WordleBlazor.csproj",
       "projectName": "WordleBlazor",
-      "projectPath": "C:\\Users\\saral\\Downloads\\AC01\\WordleBlazor.csproj",
+      "projectPath": "C:\\Users\\saral\\Downloads\\AC02\\WordleBlazor.csproj",
       "packagesPath": "C:\\Users\\saral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\saral\\Downloads\\AC01\\obj\\",
+      "outputPath": "C:\\Users\\saral\\Downloads\\AC02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saral\\AppData\\Roaming\\NuGet\\NuGet.Config",

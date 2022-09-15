@@ -1,26 +1,26 @@
 ﻿@inject ILocalStorageService localStorage
 @inject LocalizationService LocalizationService
 
-<div class="flex flex-col items-center w-full">
+<div class="flex flex-col items-center w-full" style="background-color:#1f2029; z-index:100;">
 
-    <div class="grid grid-cols-2 gap-3 w-10/12">
+    <div class="grid grid-cols-2 gap-3 w-10/12" style="background-color:#1f2029; z-index:100;">
 
-        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5">
+        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5" style="background-color:#1f2029; z-index:100;">
             <p class="text-[35px] leading-none">@_stats.GamesPlayed</p>
             <p class="text-[13px] font-thin ">@LocalizationService["StatsGamesPlayed"]</p>
         </div>
 
-        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5">
+        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5" style="background-color:#1f2029; z-index:100;">
             <p class="text-[35px] leading-none">@GetGamesWonPercent()</p>
             <p class="text-[13px] font-thin ">@LocalizationService["StatsGamesWonPercent"]</p>
         </div>
 
-        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5">
+        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5" style="background-color:#1f2029; z-index:100;">
             <p class="text-[35px] leading-none">@_stats.CurrentStreak</p>
             <p class="text-[13px] font-thin ">@LocalizationService["StatsCurrentStreak"]</p>
         </div>
 
-        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5">
+        <div class="bg-ultralightgray rounded-lg flex flex-col justify-center items-center pt-1 pb-1.5" style="background-color:#1f2029; z-index:100;">
             <p class="text-[35px] leading-none">@_stats.BestStreak</p>
             <p class="text-[13px] font-thin ">@LocalizationService["StatsBestStreak"]</p>
         </div>
